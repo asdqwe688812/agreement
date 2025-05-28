@@ -1,0 +1,47 @@
+Privacy Policy
+Effective Date: May 28, 2025
+
+Welcome to Xiong Jiang
+Your privacy is very important to us. This Privacy Policy explains how we collect, use, and protect your personal information when you use our services.
+
+Information We Collect
+When you register or use Xiong Jiang, you may provide your name and email address.
+
+We may also collect certain information automatically, such as:
+
+The type of device and operating system you use
+
+Unique device identifiers (such as Advertising ID, IMEI, or Vendor ID)
+
+Your IP address
+
+The type of mobile browser
+
+How you use the app
+
+How We Use Your Information
+We use your data to provide and improve our services, personalize content and advertising, and analyze how users interact with our app.
+
+We may share this information with trusted third-party partners who help us operate and improve our services.
+
+Children’s Privacy
+We do not knowingly collect data from children under the age of 13.
+
+If you believe your child has provided personal information, please contact us at contact@XiongJiang.com and we will delete the information.
+
+Data Security
+We take reasonable steps to protect your data through physical, electronic, and procedural safeguards.
+However, no system can be completely secure. Submitting data online is at your own risk.
+
+Changes to This Policy
+We may update this policy from time to time.
+By continuing to use our services, you agree to the updated terms.
+Please review this policy periodically.
+
+Your Consent
+By using Xiong Jiang, you agree to the collection, use, and sharing of your data as described in this policy.
+
+Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us:
+Email: contact@XiongJiang.com
+Website: https://enesoapps.com/pages/support
