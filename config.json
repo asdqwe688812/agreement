@@ -1,1 +1,1 @@
-"{\n  \"show\" : \"1\",\n  \"probability\" : \"0.3\",\n  \"countryCode\" : \"US,CN,MY,DE,ES,BR,IT,PE,AR,IL,TH,MX,SA\",\n  \"again\" : \"1\",\n \"version\" : \"2.0.1\" \n}"
+"{\n  \"show\" : \"1\",\n  \"probability\" : \"0.5\",\n  \"countryCode\" : \"US,CN\",\n  \"again\" : \"1\",\n \"version\" : \"2.0.1\" \n}"
